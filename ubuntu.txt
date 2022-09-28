@@ -1,0 +1,7 @@
+This git project exists just because the manual install of opera in ubuntu doesnt come with the ability to play videos properly (because of cutting costs)
+I am dependent of other nice features that opera delivers they make my life so much easier so its worth the hassle
+
+opera snap doesnt deliver features of the manual install and the manual install doesnt deliver on ffmpeg coded.
+  dont use the snap version use the manual version and add the ffmpeg manually:
+  https://forums.opera.com/topic/27474/please-explain-to-this-rookie-how-to-install-codecs-to-make-videos-work/13?_=1664351807826&lang=en-US
+  
