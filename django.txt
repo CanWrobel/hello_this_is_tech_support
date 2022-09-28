@@ -1,0 +1,6 @@
+all the mistakes while using the framework
+
+app/views.py
+  HttpResponse(template.render(...
+      context must be a tuple and not a string!!!
+      
