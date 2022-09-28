@@ -1,3 +1,6 @@
 integrate git and github using SSH
   https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
   from: https://youtu.be/RGOj5yH7evk?t=1533
+
+see commits so you know where to pick up work
+  git log --oneline
