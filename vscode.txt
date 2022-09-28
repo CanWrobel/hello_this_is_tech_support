@@ -16,3 +16,4 @@ pass
 SHORTCUTS
 cmd + 0 for focus on sidebar
 cmd + b for hiding sidebar
+ctrl + shift + k delete line
