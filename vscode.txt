@@ -1,6 +1,8 @@
-zsh font didnt show properly in vscode. Here is a fix:
-https://stackoverflow.com/questions/62710890/font-issues-while-integrating-zsh-on-visual-studio-code
-make sure to restart vscode after
+def problem:
+  zsh font didnt show properly in vscode. Here is a fix:
+  https://stackoverflow.com/questions/62710890/font-issues-while-integrating-zsh-on-visual-studio-code
+  make sure to restart vscode after
+pass
 
 def problem:
   html completion and django-html completion fight each other
