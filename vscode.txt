@@ -13,6 +13,9 @@ def problem:
   in the settings.json.
 pass
 
+wrap doesnt work on default
+  https://stackoverflow.com/questions/38561881/how-do-i-turn-on-text-wrapping-by-default-in-vs-code
+
 SHORTCUTS
 cmd + 0 for focus on sidebar
 cmd + b for hiding sidebar
