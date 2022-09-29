@@ -10,3 +10,6 @@ Teamviewer doesnt work for dummy pcs
   
 ubuntu start terminal on start 
   https://askubuntu.com/questions/1166449/how-to-open-terminal-automatically-when-ubuntu-boots-up
+
+custom terminal commands
+  https://medium.com/devnetwork/how-to-create-your-own-custom-terminal-commands-c5008782a78e
