@@ -1,3 +1,4 @@
+## I am hunting for every vim command so I can be the best version of myself
 ## Key
 
 :white_check_mark: - command done
