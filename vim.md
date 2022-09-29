@@ -1,5 +1,9 @@
 ## I am hunting for every vim command so I can be the best version of myself
+From the official VSC Vim plugin page: 
+https://github.com/VSCodeVim/Vim/blob/HEAD/ROADMAP.md
+
 ## Key
+
 
 :white_check_mark: - command done
 
