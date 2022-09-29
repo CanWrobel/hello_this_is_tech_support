@@ -8,3 +8,5 @@ opera snap doesnt deliver features of the manual install and the manual install 
 Teamviewer doesnt work for dummy pcs
   https://askubuntu.com/questions/1407825/teamviewer-on-22-04-remote-access
   
+ubuntu start terminal on start 
+  https://askubuntu.com/questions/1166449/how-to-open-terminal-automatically-when-ubuntu-boots-up
