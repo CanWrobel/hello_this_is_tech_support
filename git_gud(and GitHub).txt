@@ -8,4 +8,6 @@ see commits so you know where to pick up work
   
 GitHub to Local clone:
   git clone <link>
+local to github
+  git remote add origin <GITHUBSSH>
 
