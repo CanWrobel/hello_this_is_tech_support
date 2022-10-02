@@ -10,4 +10,7 @@ GitHub to Local clone:
   git clone <link>
 local to github
   git remote add origin <GITHUBSSH>
+  
+lazygit
+https://stackoverflow.com/questions/19595067/git-add-commit-and-push-commands-in-one
 
