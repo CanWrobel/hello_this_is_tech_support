@@ -13,3 +13,5 @@ ubuntu start terminal on start
 
 custom terminal commands
   https://medium.com/devnetwork/how-to-create-your-own-custom-terminal-commands-c5008782a78e
+Lazygit
+https://stackoverflow.com/questions/19595067/git-add-commit-and-push-commands-in-one
