@@ -4,7 +4,10 @@ I am dependent of other nice features that opera delivers they make my life so m
 opera snap doesnt deliver features of the manual install and the manual install doesnt deliver on ffmpeg coded.
   dont use the snap version use the manual version and add the ffmpeg manually:
   https://forums.opera.com/topic/27474/please-explain-to-this-rookie-how-to-install-codecs-to-make-videos-work/13?_=1664351807826&lang=en-US
-  
+
+Make the terminal look beautiful
+  https://caffeinedev.medium.com/customize-your-terminal-oh-my-zsh-on-ubuntu-18-04-lts-a9b11b63f2
+
 Teamviewer doesnt work for dummy pcs
   https://askubuntu.com/questions/1407825/teamviewer-on-22-04-remote-access
   
